@@ -3,7 +3,6 @@ out/
 cache/
 broadcast/
 lib/
-*.sol
 
 # Environment variables
 .env
